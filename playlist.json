@@ -1,85 +1,3127 @@
 {
+  "SchemaVersion": 1,
+  "Name": "Templo del Metal",
+  "DefaultSpeed": 0.345,
   "Songs": [
     {
-      "Title": "Mix Fin De Semana Vol 1",
-      "Artist": "DJ Habibi",
-      "Genre": "Latin Mix",
-      "ImageId": "",
-      "SoundId": "rbxassetid://72438751185345",
-      "Speed": 1,
-      "Start": 0
+      "Title": "Numb (PulsarDj)",
+      "Artist": "Linkin Park",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://77118089758248",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
     },
     {
-      "Title": "Mix Fin De Semana Vol 2",
-      "Artist": "DJ Habibi",
-      "Genre": "Latin Mix",
-      "ImageId": "",
-      "SoundId": "rbxassetid://88670635268455",
-      "Speed": 1,
-      "Start": 0
+      "Title": "Rise And Fall [Dvj Flori 2018] #ALTERNATIVO",
+      "Artist": "Alpha Academy",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://120602998081935",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
     },
     {
-      "Title": "Mix Fin De Semana Vol 3",
-      "Artist": "DJ Habibi",
-      "Genre": "Latin Mix",
-      "ImageId": "",
-      "SoundId": "rbxassetid://125213286136848",
-      "Speed": 1,
-      "Start": 0
+      "Title": "Above The Bridge [Dvj Flori 2018]",
+      "Artist": "AFI",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://90381769514181",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
     },
     {
-      "Title": "Mix Fin De Semana Vol 4",
-      "Artist": "DJ Habibi",
-      "Genre": "Latin Mix",
-      "ImageId": "",
-      "SoundId": "rbxassetid://125380454327204",
-      "Speed": 1,
-      "Start": 0
+      "Title": "All The Small Things",
+      "Artist": "BLINK 182",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://70701613350797",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
     },
     {
-      "Title": "Mix Fin De Semana Vol 5",
-      "Artist": "DJ Habibi",
-      "Genre": "Latin Mix",
-      "ImageId": "",
-      "SoundId": "rbxassetid://75193518501561",
-      "Speed": 1,
-      "Start": 0
+      "Title": "Clocks [Dj Flori 2017]",
+      "Artist": "Coldplay",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://120345361378522",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
     },
     {
-      "Title": "Mix Fin De Semana Vol 6",
-      "Artist": "DJ Habibi",
-      "Genre": "Latin Mix",
-      "ImageId": "",
-      "SoundId": "rbxassetid://88338388628527",
-      "Speed": 1,
-      "Start": 0
+      "Title": "Moongate  [Dvj Flori 2018]",
+      "Artist": "Glass Caves",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://84703783510746",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
     },
     {
-      "Title": "Mix Fin De Semana Vol 7",
-      "Artist": "DJ Habibi",
-      "Genre": "Latin Mix",
-      "ImageId": "",
-      "SoundId": "rbxassetid://75709741658627",
-      "Speed": 1,
-      "Start": 0
+      "Title": "Otherside",
+      "Artist": "R.H.C.P",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://112123976540385",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
     },
     {
-      "Title": "Mix Fin De Semana Vol 8",
-      "Artist": "DJ Habibi",
-      "Genre": "Latin Mix",
-      "ImageId": "",
-      "SoundId": "rbxassetid://127508639345903",
-      "Speed": 1,
-      "Start": 0
+      "Title": "Psycho [Dvj Flori 2018]",
+      "Artist": "Muse",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://139992665358677",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
     },
     {
-      "Title": "Mix Fin De Semana Vol 9",
-      "Artist": "DJ Habibi",
-      "Genre": "Latin Mix",
-      "ImageId": "",
-      "SoundId": "rbxassetid://85912765313396",
-      "Speed": 1,
-      "Start": 0
+      "Title": "Feed From The Floor [Dvj Flori 2018] #ALTERNATIVO",
+      "Artist": "AFI",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://72268414748072",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Lithium",
+      "Artist": "NIRVANA",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://139123882428904",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Enter Sandman",
+      "Artist": "Metallica",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://139088367778978",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Warning",
+      "Artist": "GREEN DAY",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://132270315668705",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "nirvana",
+      "Artist": "Come As You",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://104431469789541",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Smell Like Teen Spirit",
+      "Artist": "NIRVANA",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://121254072266817",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Monsoon [Dj Flori 2017]",
+      "Artist": "Tokio Hotel",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://80909672017459",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Rape Me [Dj Flori Exclusive 2017]",
+      "Artist": "Nirvana",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://107858316913215",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Numb",
+      "Artist": "Linkin Park",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://100234316476178",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Burn It Down [Dj Flori]",
+      "Artist": "Linkin Park",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://107736835322404",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "I Miss You",
+      "Artist": "Blink 182",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://104245605662934",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "The Adventures Of Rain Dance Magg",
+      "Artist": "R.H.C.P",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://123306557498315",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Like A Stone",
+      "Artist": "Audioslave",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://113795028366941",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "In The Shadows [Dj Flori]",
+      "Artist": "The Rasmus",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://100314467580010",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Snow (Hey Oh)",
+      "Artist": "RED HOT CHILI  PEPPERS",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://120169098281113",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "In The End",
+      "Artist": "LINKIN PARK",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://73136822380137",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "My Generation",
+      "Artist": "LIMP BIZKIT",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://127951672413276",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Wake Me Up When September Ends",
+      "Artist": "GREEN DAY",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://113650060661582",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Just My Imagination",
+      "Artist": "The Cranberries",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://138121742236289",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Tubthumping [Dj Flori 2017]",
+      "Artist": "Chumbawumba",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://124703818464789",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "In My Remains (In Acapella) [Dj Flori 2017]",
+      "Artist": "Linkin Park",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://81345406100052",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Around The World",
+      "Artist": "Red Hot Chili Peppers",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://128429250245824",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "When I Come Around",
+      "Artist": "Green Day",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://129376500542746",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Dani California",
+      "Artist": "Red Hot Chilli Peppers",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://87337297776773",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Californication",
+      "Artist": "Red Hot Chilli Pepers",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://86322204259837",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "This Love",
+      "Artist": "Maroon 5",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://116734175432760",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Give It Away",
+      "Artist": "Red Hot Chili Pepers",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://128941689777340",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Radio Head",
+      "Artist": "Creep",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://75955971515232",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Can_t Stop",
+      "Artist": "Red Hot Chili Peppers",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://97381604876414",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Bitter Sweet Symphony",
+      "Artist": "THE VERVE",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://132845464776399",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Wonderwall",
+      "Artist": "OASIS",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://135156941400301",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "How You Remind Me",
+      "Artist": "NICKELBACK",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://83202457523765",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Sunday Morning",
+      "Artist": "MAROON 5",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://139002545321696",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Sonnet",
+      "Artist": "The Verve",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://129940197030058",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Wonderwall [Dj Flori 2017]",
+      "Artist": "Oasis",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://112446163081521",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Somewhere Only We Know 2 [Dj Flori Reloaded 2017]",
+      "Artist": "Keane",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://132140675951378",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Don_t Look Back In Ange",
+      "Artist": "OASIS",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://126355935253103",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "The Verve",
+      "Artist": "BITHER SWEET SYMPHONY",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://123850900321893",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Boulevard Of Broken Dreams [Dj Flori Exclusive 2017]",
+      "Artist": "Green Day",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://140713917678527",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "The Reason [Dj Flori]",
+      "Artist": "Hoobastank",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://138596285513704",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "21 Guns (In Acapella) [Dj Flori Exclusive 2017]",
+      "Artist": "Green Day",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://95852104195953",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Coldplay (Live)",
+      "Artist": "Trouble",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://131235498122159",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "KABÁT Bára official video",
+      "Artist": "Unknown",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://73647748658554",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Kabát Šaman",
+      "Artist": "Unknown",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://111713450264169",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Iron Maiden - The Trooper",
+      "Artist": "01",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://92859562441946",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Iron Maiden - Run to the Hills",
+      "Artist": "02",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://70819925171915",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Iron Maiden - Fear of the Dark",
+      "Artist": "03",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://133945863942273",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Iron Maiden - Aces High",
+      "Artist": "04",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://132571196459564",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Stratovarius - Hunting High And Low",
+      "Artist": "05",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://99644502404089",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Stratovarius - Freedom",
+      "Artist": "06",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://79743226513530",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Stratovarius - Paradise",
+      "Artist": "07",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://82327083210260",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Helloween - I Want Out",
+      "Artist": "08",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://78473794710614",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Helloween - Future World",
+      "Artist": "09",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://114113161275313",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Helloween - If I Could Fly",
+      "Artist": "10",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://117788002743220",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Helloween - Mr. Torture",
+      "Artist": "11",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://86715754770478",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Helloween - All over the Nation",
+      "Artist": "12",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://80608412767627",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Helloween - Salvation",
+      "Artist": "13",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://119495120575111",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Helloween - He's a Woman She's a Man",
+      "Artist": "14",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://93094591183952",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Helloween - Lay All Your Love On Me",
+      "Artist": "15",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://93822285428739",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Helloween - From Out of Nowhere",
+      "Artist": "17",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://97520867072557",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Helloween - Hocus Pocus",
+      "Artist": "19",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://139920667792354",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Helloween - Juggernaut",
+      "Artist": "20",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://71208267628197",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Judas Priest - Breaking the Law",
+      "Artist": "21",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://134846050895852",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Rhapsody - Emerald Sword",
+      "Artist": "22",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://82782353181668",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Iron Maiden - The Trooper",
+      "Artist": "01",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://112230916785977",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Pantera",
+      "Artist": "Walk",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://128729227718393",
+      "Speed": 0.667,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Pantera",
+      "Artist": "Cowboys from Hell",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://82203777013952",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": ""
+    },
+    {
+      "Title": "Nirvana",
+      "Artist": "(New Wave) Polly (BBC Mark Goodier Session)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://82310967779630",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "1:55"
+    },
+    {
+      "Title": "Nirvana",
+      "Artist": "(New Wave) Polly (BBC Mark Goodier Session)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://100750355563582",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "1:55"
+    },
+    {
+      "Title": "System Of A Down",
+      "Artist": "Aerials",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://97516965753099",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:02"
+    },
+    {
+      "Title": "Nirvana",
+      "Artist": "All Apologies",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://92265077383882",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:00"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "All My Loving",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://132535134190676",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "1:51"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "All My Loving (Remastered 2024)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://71160536523479",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "1:51"
+    },
+    {
+      "Title": "Aerosmith",
+      "Artist": "Amazing",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://139805007879818",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "6:04"
+    },
+    {
+      "Title": "Boulevard of Broken Dreams - Green Day",
+      "Artist": "American Idiot",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://122744442224403",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:28"
+    },
+    {
+      "Title": "Green Day",
+      "Artist": "American Idiot",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://123287078339251",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:02"
+    },
+    {
+      "Title": "Letterbomb - Green Day",
+      "Artist": "American Idiot",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://127999033262309",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:13"
+    },
+    {
+      "Title": "Wake Me Up When September Ends - Green Day",
+      "Artist": "American Idiot",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://73696507783923",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:53"
+    },
+    {
+      "Title": "Whatsername - Green Day",
+      "Artist": "American Idiot",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://123782494149343",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:19"
+    },
+    {
+      "Title": "Slayer",
+      "Artist": "Angel Of Death",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://100597049227143",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:58"
+    },
+    {
+      "Title": "Alice In Chains",
+      "Artist": "Angry Chair (2022 Remaster)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://135320021662667",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:55"
+    },
+    {
+      "Title": "Pink Floyd",
+      "Artist": "Another Brick in the Wall, Pt. 2",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://87504223524219",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:06"
+    },
+    {
+      "Title": "Sepultura",
+      "Artist": "Arise",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://86787771966742",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:25"
+    },
+    {
+      "Title": "Smashing Pumpkins",
+      "Artist": "Ava Adore",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://87204572966599",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:38"
+    },
+    {
+      "Title": "Unknown",
+      "Artist": "Baile Inolvidable (Latin Tech DJ Remix)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://121460238315802",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "2:45"
+    },
+    {
+      "Title": "Green Day",
+      "Artist": "Basket Case",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://80832178482543",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:08"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Battery (Remastered)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://133750926077126",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:19"
+    },
+    {
+      "Title": "Manowar",
+      "Artist": "Battle Hymn",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://125287827684811",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "7:04"
+    },
+    {
+      "Title": "Pearl Jam",
+      "Artist": "Black (Live MTV Unplugged)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://86629792623678",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:38"
+    },
+    {
+      "Title": "Led Zeppelin",
+      "Artist": "Black Dog (Remaster)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://103030571064185",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:02"
+    },
+    {
+      "Title": "Scorpions",
+      "Artist": "Blackout",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://80733860350785",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:55"
+    },
+    {
+      "Title": "Queen",
+      "Artist": "Bohemian Rhapsody (Remastered 2011)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://71884854419044",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "6:01"
+    },
+    {
+      "Title": "Judas Priest",
+      "Artist": "Breaking the Law",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://76035082393045",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "2:41"
+    },
+    {
+      "Title": "Smashing Pumpkins",
+      "Artist": "Bullet With Butterfly Wings (Remastered 2012)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://133391035481630",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:25"
+    },
+    {
+      "Title": "System Of A Down",
+      "Artist": "Chop Suey!",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://104842004470483",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:37"
+    },
+    {
+      "Title": "Nirvana",
+      "Artist": "Come As You Are",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://82994967819363",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:46"
+    },
+    {
+      "Title": "Pantera",
+      "Artist": "Cowboys from Hell",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://82121177715366",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:10"
+    },
+    {
+      "Title": "Stone Temple Pilots",
+      "Artist": "Creep (2017 Remaster)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://127397590655720",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:41"
+    },
+    {
+      "Title": "Aerosmith",
+      "Artist": "Cryin'",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://127966037697929",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:15"
+    },
+    {
+      "Title": "Rhapsody",
+      "Artist": "Dawn of Victory",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://139758551714368",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:54"
+    },
+    {
+      "Title": "Queen",
+      "Artist": "Don't Stop Me Now (Remastered 2011)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://118551439531940",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:36"
+    },
+    {
+      "Title": "Nirvana",
+      "Artist": "Drain You",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://121145596435637",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:51"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "Eagle Fly Free (Remastered 2024)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://125693066316542",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:18"
+    },
+    {
+      "Title": "Rhapsody",
+      "Artist": "Emerald Sword",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://76928911875072",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:28"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "Faith Healer (Remastered 2024)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://107750823165950",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "7:16"
+    },
+    {
+      "Title": "Korn",
+      "Artist": "Falling Away from Me",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://116312917780312",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:38"
+    },
+    {
+      "Title": "Iron Maiden",
+      "Artist": "Fear of the Dark (Remastered 2015)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://127620518522557",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "7:25"
+    },
+    {
+      "Title": "Nirvana",
+      "Artist": "Frances Farmer Will Have Her Revenge On Seattle",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://126096248602660",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:17"
+    },
+    {
+      "Title": "Korn",
+      "Artist": "Freak On a Leash",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://109735941615522",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:33"
+    },
+    {
+      "Title": "Stratovarius",
+      "Artist": "Freedom",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://85012160061119",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:11"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "From Out of Nowhere",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://107682502386291",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:26"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "From Out of Nowhere (Remastered 2024)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://127411775303552",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:26"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "Future World (Remastered 2024)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://89001388242447",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:10"
+    },
+    {
+      "Title": "Nightwish",
+      "Artist": "Ghost Love Score",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://106230766853565",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "10:09"
+    },
+    {
+      "Title": "Manowar",
+      "Artist": "Hail and Kill",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://81950188632316",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "6:04"
+    },
+    {
+      "Title": "Nirvana",
+      "Artist": "Heart-Shaped Box",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://113032093628505",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:48"
+    },
+    {
+      "Title": "April 1996) - Alice In Chains",
+      "Artist": "Heaven Beside You (Live at the Majestic Theatre, Brooklyn, NY",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://138582134185797",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:45"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "He's a Woman She's a Man",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://101430365375507",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:21"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "He's a Woman She's a Man (Remastered 2024)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://105795207904426",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:20"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "Hocus Pocus",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://124160538505945",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "6:51"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "Hocus Pocus (Remastered 2024)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://79244674021260",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "6:51"
+    },
+    {
+      "Title": "Megadeth",
+      "Artist": "Holy Wars...The Punishment Due (2004 Remix)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://113301448604841",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "6:40"
+    },
+    {
+      "Title": "Stratovarius",
+      "Artist": "Hunting High And Low",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://109580441309847",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:16"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "I Want Out (Remastered 2024)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://88009210881886",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:49"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "If I Could Fly",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://76615989062825",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:16"
+    },
+    {
+      "Title": "Nirvana",
+      "Artist": "In Bloom",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://119595228430511",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:22"
+    },
+    {
+      "Title": "Anthrax",
+      "Artist": "Indians",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://81130641606793",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:48"
+    },
+    {
+      "Title": "System Of A Down",
+      "Artist": "Jet Pilot",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://104897560226753",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "2:13"
+    },
+    {
+      "Title": "Papa Roach",
+      "Artist": "Last Resort",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://88757824323267",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:27"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "Lay All Your Love On Me",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://134214181832591",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:43"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "Lay All Your Love On Me (Remastered 2024)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://75324304320192",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:43"
+    },
+    {
+      "Title": "Nirvana",
+      "Artist": "Lithium",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://126336477988038",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:24"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "Locomotive Breath (Remastered 2024)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://122486347026319",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:03"
+    },
+    {
+      "Title": "Green Day",
+      "Artist": "Longview",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://119046067735432",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:00"
+    },
+    {
+      "Title": "Nirvana",
+      "Artist": "Lounge Act (Remastered 2021)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://106578355251188",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "2:44"
+    },
+    {
+      "Title": "Alice In Chains",
+      "Artist": "Man in the Box",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://78436544633079",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:52"
+    },
+    {
+      "Title": "System Of A Down",
+      "Artist": "Metro",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://99110416813922",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:06"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "Mexican (Remastered 2024)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://137047717831091",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:55"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "Mr. Torture",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://120586142210048",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:35"
+    },
+    {
+      "Title": "System Of A Down",
+      "Artist": "Needles",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://115913327833674",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:21"
+    },
+    {
+      "Title": "The Rolling Stones",
+      "Artist": "Paint It, Black",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://120918397974455",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:29"
+    },
+    {
+      "Title": "Remaster) - Black Sabbath",
+      "Artist": "Paranoid (2012",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://86477357017834",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "2:54"
+    },
+    {
+      "Title": "Radiohead",
+      "Artist": "Paranoid Android",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://129662211309224",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "6:34"
+    },
+    {
+      "Title": "Slipknot",
+      "Artist": "People = Shit (Live Version)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://98667875895173",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "6:01"
+    },
+    {
+      "Title": "Stone Temple Pilots",
+      "Artist": "Plush",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://103740288346889",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:17"
+    },
+    {
+      "Title": "Pearl Jam",
+      "Artist": "Porch (Live MTV Unplugged)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://77086147226378",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "6:25"
+    },
+    {
+      "Title": "System Of A Down",
+      "Artist": "Prison Song",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://75262768162505",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:28"
+    },
+    {
+      "Title": "Nirvana",
+      "Artist": "Radio Friendly Unit Shifter",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://134323727095669",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:59"
+    },
+    {
+      "Title": "Slayer",
+      "Artist": "Raining Blood",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://79754638175145",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:22"
+    },
+    {
+      "Title": "Led Zeppelin",
+      "Artist": "Rock and Roll (Remaster)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://139035366156860",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:48"
+    },
+    {
+      "Title": "Sepultura",
+      "Artist": "Roots Bloody Roots (2017 Remaster)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://114941919861653",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:40"
+    },
+    {
+      "Title": "Iron Maiden",
+      "Artist": "Run To The Hills (2015 Remaster)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://92903610698817",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:00"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "Salvation",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://127282854951635",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:50"
+    },
+    {
+      "Title": "Nirvana",
+      "Artist": "Serve The Servants",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://118457797293231",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:44"
+    },
+    {
+      "Title": "April 1996) - Alice In Chains",
+      "Artist": "Sludge Factory (Live at the Majestic Theatre, Brooklyn, NY",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://72121145546438",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:44"
+    },
+    {
+      "Title": "Nirvana",
+      "Artist": "Smells Like Teen Spirit (Remastered 2021)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://138784187501138",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:07"
+    },
+    {
+      "Title": "Korn",
+      "Artist": "Somebody Someone",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://114258838154305",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:55"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "Space Oddity",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://100418563130531",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:00"
+    },
+    {
+      "Title": "System Of A Down",
+      "Artist": "Spiders",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://139305831298174",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:42"
+    },
+    {
+      "Title": "Pearl Jam",
+      "Artist": "State of Love And Trust (Live MTV Unplugged)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://114738835075412",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:51"
+    },
+    {
+      "Title": "Nirvana",
+      "Artist": "Stay Away",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://122825293231373",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:39"
+    },
+    {
+      "Title": "Megadeth",
+      "Artist": "Symphony Of Destruction (Remastered 2012)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://89329170969444",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:09"
+    },
+    {
+      "Title": "Nirvana",
+      "Artist": "The Man Who Sold The World (Live)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://115607739135281",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:28"
+    },
+    {
+      "Title": "Iron Maiden",
+      "Artist": "The Trooper (2015 Remaster) (Remastered 2015)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://107321230640587",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:20"
+    },
+    {
+      "Title": "Helloween",
+      "Artist": "The White Room (Remastered 2024)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://120896467338194",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:53"
+    },
+    {
+      "Title": "Scorpions",
+      "Artist": "The Zoo",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://116847964210888",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:37"
+    },
+    {
+      "Title": "Alice In Chains",
+      "Artist": "Them Bones (2022 Remaster)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://138013828109440",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "2:36"
+    },
+    {
+      "Title": "Pantera",
+      "Artist": "This Love (2012 Remaster)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://124411813833792",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "6:40"
+    },
+    {
+      "Title": "Nirvana",
+      "Artist": "Tourette's",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://106282585695116",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "1:42"
+    },
+    {
+      "Title": "System Of A Down",
+      "Artist": "Toxicity",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://81955097898789",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:46"
+    },
+    {
+      "Title": "Rhapsody",
+      "Artist": "Triumph for My Magic Steel",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://98402239418181",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:54"
+    },
+    {
+      "Title": "Pantera",
+      "Artist": "Walk",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://119762260284971",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:22"
+    },
+    {
+      "Title": "Queen",
+      "Artist": "We Will Rock You (Remastered 2011)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://97203519028490",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "2:09"
+    },
+    {
+      "Title": "Green Day",
+      "Artist": "Welcome to Paradise",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://98668907107558",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:51"
+    },
+    {
+      "Title": "Aerosmith",
+      "Artist": "What It Takes",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://116595425557785",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "6:35"
+    },
+    {
+      "Title": "Led Zeppelin",
+      "Artist": "Whole Lotta Love (Remaster)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://114756662060168",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:42"
+    },
+    {
+      "Title": "Scorpions",
+      "Artist": "Wind Of Change",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://102150814311442",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "5:19"
+    },
+    {
+      "Title": "Rhapsody",
+      "Artist": "Wisdom of the Kings",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://94825569029671",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "4:36"
+    },
+    {
+      "Title": "Alice In Chains",
+      "Artist": "Would (2022 Remaster)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://106006373549365",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "3:34"
+    },
+    {
+      "Title": "Smashing Pumpkins",
+      "Artist": "Zero (Remastered 2012)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://123673227912820",
+      "Speed": 0.435,
+      "Start": 0,
+      "Duration": "2:47"
+    },
+    {
+      "Title": "Aerosmith",
+      "Artist": "Crazy",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://86414850167949",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "5:26"
+    },
+    {
+      "Title": "Korn",
+      "Artist": "Got the Life",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://97435416217542",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:54"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Hit The Lights (Remastered)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://112337883392134",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "4:25"
+    },
+    {
+      "Title": "Anthrax",
+      "Artist": "Indians",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://121188737603314",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "5:50"
+    },
+    {
+      "Title": "Manowar",
+      "Artist": "Kings of Metal",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://80482395979814",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:53"
+    },
+    {
+      "Title": "Stratovarius",
+      "Artist": "Paradise",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://121819030799850",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "4:36"
+    },
+    {
+      "Title": "Remaster) - Black Sabbath",
+      "Artist": "Paranoid (2012",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://109078031155295",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "2:57"
+    },
+    {
+      "Title": "Radiohead",
+      "Artist": "Paranoid Android",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://133285430865212",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "6:36"
+    },
+    {
+      "Title": "Scorpions",
+      "Artist": "Rock You Like A Hurricane",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://117827436094068",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "4:22"
+    },
+    {
+      "Title": "Scorpions",
+      "Artist": "The Zoo",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://119482245187038",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "5:39"
+    },
+    {
+      "Title": "Slipknot",
+      "Artist": "Wait and Bleed",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://111062640169535",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "2:37"
+    },
+    {
+      "Title": "Slipknot",
+      "Artist": "Wait And Bleed (Live Version)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://139174173164023",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:53"
+    },
+    {
+      "Title": "Rhapsody",
+      "Artist": "Wisdom of the Kings",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://138150459349105",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "4:37"
+    },
+    {
+      "Title": "Lacrimosa",
+      "Artist": "Alleine zu zweit",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://126267224560362",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "4:24"
+    },
+    {
+      "Title": "AC DC",
+      "Artist": "Back In Black",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://127234470417030",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "4:22"
+    },
+    {
+      "Title": "Rage Against The Machine",
+      "Artist": "Bulls On Parade",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://76683401135218",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:56"
+    },
+    {
+      "Title": "Pantera",
+      "Artist": "Domination",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://127182378011686",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "5:12"
+    },
+    {
+      "Title": "Twisted Sister",
+      "Artist": "I Wanna Rock",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://107413295424374",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:11"
+    },
+    {
+      "Title": "Lacrimosa",
+      "Artist": "Ich verlasse heut' Dein Herz",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://121078931528762",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "8:38"
+    },
+    {
+      "Title": "Lacrimosa",
+      "Artist": "Lichtgestalt",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://137866296550492",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "5:25"
+    },
+    {
+      "Title": "The Cranberries",
+      "Artist": "Linger",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://117606978359618",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "4:41"
+    },
+    {
+      "Title": "The Cardigans",
+      "Artist": "My Favourite Game",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://98121157574108",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:47"
+    },
+    {
+      "Title": "Linkin Park",
+      "Artist": "Numb",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://99995599845144",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:14"
+    },
+    {
+      "Title": "Slipknot",
+      "Artist": "Psychosocial",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://82575082442378",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "4:51"
+    },
+    {
+      "Title": "Sepultura",
+      "Artist": "Refuse Resist",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://71912147067311",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:26"
+    },
+    {
+      "Title": "Sepultura",
+      "Artist": "Roots Bloody Roots (2017 Remaster)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://80943499301547",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:39"
+    },
+    {
+      "Title": "The Cranberries",
+      "Artist": "Salvation",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://106326801588299",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "2:31"
+    },
+    {
+      "Title": "Rage Against The Machine",
+      "Artist": "Sleep Now In the Fire",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://112248716994527",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:32"
+    },
+    {
+      "Title": "DragonForce",
+      "Artist": "Soldiers Of The Wastelands",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://130824978493992",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "9:54"
+    },
+    {
+      "Title": "Sepultura",
+      "Artist": "Territory",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://80621477762304",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "4:54"
+    },
+    {
+      "Title": "Nightwish",
+      "Artist": "The Phantom Of The Opera",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://99349667067227",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "4:15"
+    },
+    {
+      "Title": "DragonForce",
+      "Artist": "Through The Fire And Flames",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://70787711039869",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "7:26"
+    },
+    {
+      "Title": "AC DC",
+      "Artist": "Thunderstruck",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://93782543118754",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "4:59"
+    },
+    {
+      "Title": "DragonForce",
+      "Artist": "Valley of the Damned (Remastered 2009)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://127478802346056",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "7:19"
+    },
+    {
+      "Title": "Twisted Sister",
+      "Artist": "We're Not Gonna Take It",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://136986022360009",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:46"
+    },
+    {
+      "Title": "Linkin Park",
+      "Artist": "What I've Done",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://73343744756631",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:32"
+    },
+    {
+      "Title": "Linkin Park",
+      "Artist": "In the End",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://95481317821471",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:43"
+    },
+    {
+      "Title": "Iron Maiden",
+      "Artist": "The Wicker Man (Remastered 2015)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://103153161171062",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "4:42"
+    },
+    {
+      "Title": "Ashes to Ashes",
+      "Artist": "Blind Guardian",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://97016538249960",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "Fury of the Storm",
+      "Artist": "DragonForce",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://76076263431059",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "Bring Me To Life",
+      "Artist": "Evanescence",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://119191366105333",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "Going Under",
+      "Artist": "Evanescence",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://80198133507896",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "My Immortal",
+      "Artist": "Evanescence",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://93040135454054",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "All My Life",
+      "Artist": "Foo Fighters",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://119294404161251",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "Alone + Easy Target",
+      "Artist": "Foo Fighters",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://111939172045517",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "Big Me",
+      "Artist": "Foo Fighters",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://107889343114613",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "Breakout",
+      "Artist": "Foo Fighters",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://126142268684259",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "Everlong",
+      "Artist": "Foo Fighters",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://95605900984419",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "Everlong (Acoustic Version)",
+      "Artist": "Foo Fighters",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://83101758558379",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "For All the Cows",
+      "Artist": "Foo Fighters",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://81306716352026",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "I'll Stick Around",
+      "Artist": "Foo Fighters",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://139304515379774",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "Next Year",
+      "Artist": "Foo Fighters",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://73659718834232",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "This Is a Call",
+      "Artist": "Foo Fighters",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://130265841257646",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "Times Like These",
+      "Artist": "Foo Fighters",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://124304340488859",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "Der Morgen danach",
+      "Artist": "Lacrimosa",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://139535321880982",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "Amaranth",
+      "Artist": "Nightwish",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://111142338570193",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "Nemo",
+      "Artist": "Nightwish",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://139405174940825",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "Wish I Had an Angel",
+      "Artist": "Nightwish",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://81634336063950",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "Cemetery Gates",
+      "Artist": "Pantera",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://89952732998845",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "Killing In The Name",
+      "Artist": "Rage Against The Machine",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://119678413722646",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:30"
+    },
+    {
+      "Title": "Iron Maiden",
+      "Artist": "Aces High (2015 Remaster) (Remastered 2015)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://133640764703251",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:50"
+    },
+    {
+      "Title": "Rammstein",
+      "Artist": "Amerika",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://97419883014605",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:05"
+    },
+    {
+      "Title": "Rammstein",
+      "Artist": "Ausländer",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://105526707223868",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:09"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Blackened (Remastered)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://127128903807979",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "7:00"
+    },
+    {
+      "Title": "Aerosmith",
+      "Artist": "Crazy",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://109559794733193",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "5:35"
+    },
+    {
+      "Title": "Rammstein",
+      "Artist": "Deutschland",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://87442666858440",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "5:40"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Die Die My Darling",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://106029011236311",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "2:47"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Don't Tread on Me (Remastered)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://138100742885658",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:18"
+    },
+    {
+      "Title": "Rammstein",
+      "Artist": "Du hast",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://105239276646949",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:12"
+    },
+    {
+      "Title": "Rammstein",
+      "Artist": "Engel",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://110668489689698",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:42"
+    },
+    {
+      "Title": "Rammstein",
+      "Artist": "Feuer frei!",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://135205841639701",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "3:26"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Frantic",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://93926236136957",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "6:08"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Fuel",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://113043316039267",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:47"
+    },
+    {
+      "Title": "Korn",
+      "Artist": "Got the Life",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://99370886879659",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:03"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Hero of the Day (Remastered)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://91714869158423",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:40"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Hit The Lights (Remastered)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://98725779217461",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:34"
+    },
+    {
+      "Title": "Megadeth",
+      "Artist": "Holy Wars...The Punishment Due (2004 Remix)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://110395426114919",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "6:50"
+    },
+    {
+      "Title": "Rammstein",
+      "Artist": "Ich will",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://131561943214935",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "3:55"
+    },
+    {
+      "Title": "Anthrax",
+      "Artist": "Indians",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://77931210948145",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "5:59"
+    },
+    {
+      "Title": "Manowar",
+      "Artist": "Kings of Metal",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://133733622939285",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:02"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Last Caress Green Hell",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://94580288481509",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "3:48"
+    },
+    {
+      "Title": "Mama Said (Remastered) - Metallica",
+      "Artist": "Load (Remastered)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://124850945890887",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "5:37"
+    },
+    {
+      "Title": "Until It Sleeps (Remastered) - Metallica",
+      "Artist": "Load (Remastered)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://135614920893940",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:47"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Master of Puppets (Remastered)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://91788320687468",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "8:53"
+    },
+    {
+      "Title": "Rammstein",
+      "Artist": "Mein Herz brennt",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://127362936632122",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:58"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Motorbreath (Remastered)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://78367517743284",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "3:26"
+    },
+    {
+      "Title": "Live - Metallica",
+      "Artist": "No Leaf Clover",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://70603224546115",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "6:01"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Nothing Else Matters (Remastered)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://139415037078084",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "6:47"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Of Wolf and Man (Remastered)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://96594024613429",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:34"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "One (Remastered)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://140555400495882",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "7:44"
+    },
+    {
+      "Title": "Stratovarius",
+      "Artist": "Paradise",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://76565096000155",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:45"
+    },
+    {
+      "Title": "Remaster) - Black Sabbath",
+      "Artist": "Paranoid (2012",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://127950840410080",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "3:06"
+    },
+    {
+      "Title": "Radiohead",
+      "Artist": "Paranoid Android",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://101927230227734",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "6:45"
+    },
+    {
+      "Title": "Rammstein",
+      "Artist": "Rein raus",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://73816580614509",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "3:28"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Ride The Lightning (Remastered)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://89096100833913",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "6:55"
+    },
+    {
+      "Title": "Scorpions",
+      "Artist": "Rock You Like A Hurricane",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://91626244962183",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:31"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Sad But True (Remastered)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://116750071039269",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "5:42"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "So What",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://112168611014324",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "3:27"
+    },
+    {
+      "Title": "Rammstein",
+      "Artist": "Sonne",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://80777616218685",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:50"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "St. Anger",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://139348045224502",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "7:39"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Stone Cold Crazy",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://117284001115594",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "2:35"
+    },
+    {
+      "Title": "Metallica, Marianne Faithfull",
+      "Artist": "The Memory Remains",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://123236330699049",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:57"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "The Memory Remains (Live)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://110957583646774",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "5:06"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "The Unforgiven II",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://92878736785412",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "6:54"
+    },
+    {
+      "Title": "Scorpions",
+      "Artist": "The Zoo",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://87899349555876",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "5:48"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Through the Never (Remastered)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://78740882309759",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:22"
+    },
+    {
+      "Title": "Slipknot",
+      "Artist": "Wait and Bleed",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://136853931242486",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "2:46"
+    },
+    {
+      "Title": "Slipknot",
+      "Artist": "Wait And Bleed (Live Version)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://98780877170977",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:02"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Wherever I May Roam (Remastered)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://98729261633930",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "7:02"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Whiskey In The Jar",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://100929935499789",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "5:23"
+    },
+    {
+      "Title": "Rhapsody",
+      "Artist": "Wisdom of the Kings",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://71446384227862",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "4:47"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "Seek & Destroy (Remastered)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://75629539279326",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "7:13"
+    },
+    {
+      "Title": "Metallica",
+      "Artist": "And Justice For All (Remastered)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://106952106884527",
+      "Speed": 0.339,
+      "Start": 0,
+      "Duration": "10:03"
+    },
+    {
+      "Title": "Walda Gang",
+      "Artist": "Eldorádo",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://108388471619571",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:13"
+    },
+    {
+      "Title": "Hammerfall",
+      "Artist": "Hector's Hymn",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://94604857873004",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "6:01"
+    },
+    {
+      "Title": "Kabát",
+      "Artist": "Láďa (Live)",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://136928211435845",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:19"
+    },
+    {
+      "Title": "Tublatanka",
+      "Artist": "Láska, drž ma nad hladinou",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://91529753117197",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "5:26"
+    },
+    {
+      "Title": "Nocturna",
+      "Artist": "New Evil",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://107083073575500",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "4:34"
+    },
+    {
+      "Title": "Xandria",
+      "Artist": "Nightfall",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://130064044392853",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "4:04"
+    },
+    {
+      "Title": "Kabát",
+      "Artist": "Pohoda",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://88341256947530",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "4:01"
+    },
+    {
+      "Title": "Tublatanka",
+      "Artist": "Pravda víťazí",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://109211770461296",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "5:12"
+    },
+    {
+      "Title": "Aleš Brichta, Arakain",
+      "Artist": "Slečna Závist",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://79066582215872",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "4:56"
+    },
+    {
+      "Title": "Kabát",
+      "Artist": "V pekle sudy válej",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://133883432233542",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "3:08"
+    },
+    {
+      "Title": "Kabát",
+      "Artist": "Žízeň",
+      "Genre": "Rock heavy metal",
+      "ImageId": "rbxassetid://124321052489221",
+      "SoundId": "rbxassetid://104568367898440",
+      "Speed": 0.345,
+      "Start": 0,
+      "Duration": "2:45"
     }
   ]
 }
